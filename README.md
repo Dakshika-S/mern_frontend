@@ -1,3 +1,21 @@
+# MERN Frontend
+
+This repository contains the frontend for our MERN (MongoDB, Express, React, Node.js) project. The backend counterpart can be found [here](https://github.com/Dakshika-S/mern_backend).
+
+## Project Overview
+
+Revamped MERN project frontend with React and Redux for enhanced state management. Streamlined user interface and improved overall user experience.
+
+## Getting Started
+
+To connect the frontend with the backend, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Dakshika-S/mern_frontend.git
+   ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
